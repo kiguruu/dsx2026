@@ -1,7 +1,7 @@
 Code of the Class of Data Science Exercises.
 
-Differences from [dsx-base](https://github.com/kiguruu/dsx-base) are
-- Python version(in this repo, 3.13)
+Differences from [kiguruu/dsx-base](https://github.com/kiguruu/dsx-base) are
+- Python version(in this repo, 3.13.13)
 - Add tensorflow
 
 To run `uv run --with jupyter jupyter notebook --no-browser`
