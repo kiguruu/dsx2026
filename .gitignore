@@ -12,3 +12,4 @@ wheels/
 # Misc
 cifar10/
 *.keras
+.ipynb_checkpoints/
